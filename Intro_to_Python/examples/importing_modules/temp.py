@@ -68,7 +68,6 @@ while i < len(numbers): # define while loop condition and terminate with a ":" c
     # indented is inside, and flush left is outside the structure
     print(sum)
 
-
 # for...in loop is a different type of loop
 for number in numbers:  # automatically starts at position-zero and puts it into the variable "number" 
     sum += number
@@ -112,7 +111,6 @@ print_age(325)
 
 def get_age(age):
     return "you are " + str(age) # the "+" operator on Strings will execute a concatenation 
-
 print(get_age(32))
 
 import matplotlib.pyplot as plt

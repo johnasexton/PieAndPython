@@ -101,7 +101,7 @@ the biggest difference between Python2 and Python3 is Python3 is fully Object Or
 Python2 is still just a plain scripting language
 
 # JSON and PYTHON go well together 
-
+see my temp.py where I work through all of the intro examples in this 2 hour class
 
 
 
